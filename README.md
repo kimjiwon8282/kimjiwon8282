@@ -7,7 +7,7 @@ and connecting them with data and AI models for practical applications.
 
 ## Selected Projects
 ### 🏆 졸업작품 – SmartStore Product Ranking Prediction Platform  
-🔗 https://github.com/kimjiwon8282/RankApiClient␠␠
+🔗 https://github.com/kimjiwon8282/RankApiClient<br>
 🔗 https://github.com/kimjiwon8282/RankitAI
 
 - Java & Spring Boot based backend system
