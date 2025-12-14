@@ -1,15 +1,48 @@
-## Portfolio Repositories
+## Backend & AIoT Engineer
+Java · Spring Boot · AWS · AI Systems
 
-- [Rankit](https://github.com/kimjiwon8282/RankApiClient)  
-  스마트스토어 판매자를 위한 상품 랭킹 예측 플랫폼
+I develop backend systems and AI-integrated services.
+My main focus is building Java & Spring-based servers deployed on AWS,
+and connecting them with data and AI models for practical applications.
 
-- [BrainsenseAdmin](https://github.com/kimjiwon8282/BrainsenseAdmin)  
-  스타트업 관리자 페이지
+## Selected Projects
+### 🏆 졸업작품 – SmartStore Product Ranking Prediction Platform
+🔗 https://github.com/kimjiwon8282/RankApiClient
 
-- [BrainsenseClient](https://github.com/kimjiwon8282/BrainsenseClient)  
-  스타트업 클라이언트 페이지
+- Java & Spring Boot based backend system
+- Ranking prediction using machine learning
+- REST API for product analysis & ranking estimation
+- Deployed on AWS (Elastic Beanstalk, EC2, RDS)
 
-- [CatchMe](https://github.com/kimjiwon8282/CATCHME)  
-  스마트 인솔 기반 치매·뇌질환 예측 플랫폼
+### 🚀 BrainSense – Startup Web Service
+🔗 Admin: https://github.com/kimjiwon8282/BrainsenseAdmin  
+🔗 Client: https://github.com/kimjiwon8282/BrainsenseClient
+
+- Backend system for startup service operation
+- User management, content management, API integration
+- Real service-oriented architecture
+
+### 🧠 스마트깔창 – Smart Insole Based Health Monitoring System
+🔗 https://github.com/kimjiwon8282/CATCHME
+
+- Sensor-based data collection (pressure data)
+- AI-based analysis for cognitive & neurological risk prediction
+- Integration of IoT devices and backend systems
 
 
+## Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST API
+- JWT Authentication
+
+### Cloud & DevOps
+- AWS (EC2, Elastic Beanstalk, S3, RDS)
+- GitHub Actions (CI/CD)
+
+### AI & Data
+- Python
+- scikit-learn
+- Ranking & Regression Models
