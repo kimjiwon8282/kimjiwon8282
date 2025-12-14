@@ -1,4 +1,4 @@
-## Backend & AIoT Engineer
+## Backend Engineer
 Java · Spring Boot · AWS · AI Systems
 
 I develop backend systems and AI-integrated services.
