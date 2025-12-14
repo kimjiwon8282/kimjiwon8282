@@ -48,3 +48,11 @@ and connecting them with data and AI models for practical applications.
 - Python
 - scikit-learn
 - Ranking & Regression Models
+
+## Writing & Notes
+
+I document my development process, system design decisions,
+and problem-solving experiences on my blog.
+
+📝 Blog: https://blog.naver.com/iwill0324
+
