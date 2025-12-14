@@ -6,7 +6,7 @@ My main focus is building Java & Spring-based servers deployed on AWS,
 and connecting them with data and AI models for practical applications.
 
 ## Selected Projects
-### 🏆 졸업작품 – SmartStore Product Ranking Prediction Platform
+### 🏆 졸업작품 – SmartStore Product Ranking Prediction Platform  
 🔗 https://github.com/kimjiwon8282/RankApiClient
 🔗 https://github.com/kimjiwon8282/RankitAI
 
