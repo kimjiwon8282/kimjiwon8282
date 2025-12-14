@@ -14,6 +14,7 @@ and connecting them with data and AI models for practical applications.
 - REST API for product analysis & ranking estimation
 - Deployed on AWS (Elastic Beanstalk, EC2, RDS)
 
+
 ### 🚀 BrainSense – Startup Web Service
 🔗 Admin: https://github.com/kimjiwon8282/BrainsenseAdmin  
 🔗 Client: https://github.com/kimjiwon8282/BrainsenseClient
@@ -21,6 +22,7 @@ and connecting them with data and AI models for practical applications.
 - Backend system for startup service operation
 - User management, content management, API integration
 - Real service-oriented architecture
+
 
 ### 🧠 스마트깔창 – Smart Insole Based Health Monitoring System
 🔗 https://github.com/kimjiwon8282/CATCHME
