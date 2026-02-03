@@ -41,7 +41,7 @@ https://github.com/kimjiwon8282/BrainsenseClient
 
 ### 🧠 Smart Insole Based Health Monitoring System
 
-🔗 https://github.com/kimjiwon8282/CATCHME  
+🔗 https://github.com/kimjiwon8282/catchmeServer
 
 - Collected **sensor-based pressure data** from smart insoles
 - Applied **AI-based analysis** for cognitive and neurological risk prediction
